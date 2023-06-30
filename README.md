@@ -1,4 +1,4 @@
-# Tell Me More: Your Platform for Sharing Short and Meaningful Messages
+# Tell Me More: Your Platform for Sharing Short Messages
 
 Welcome to Tell Me More, the go-to platform for posting and sharing concise yet impactful messages. Whether you have a quick anecdote, a heartfelt quote, or a thought-provoking reflection to share, our website provides the perfect space to express yourself and connect with others in a meaningful way.
 
